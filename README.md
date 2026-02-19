@@ -1,4 +1,4 @@
-# Official [Cyber Range](http://joshmadakor.tech/cyber-range) Project
+# Threat Hunt Project
 
 <img width="400" src="" alt="Tor Logo with the onion and a crosshair on it"/>
 
