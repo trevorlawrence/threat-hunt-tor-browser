@@ -3,7 +3,7 @@
 <img width="400" src="https://github.com/trevorlawrence/threat-hunt-tor-browser/blob/main/attachments/b1f7b91f-49d4-4be3-b39e-f2fd7a74d3c6.png" alt="Tor Logo with the onion and a crosshair on it"/>
 
 # Threat Hunt Report: Unauthorized TOR Usage
-- [Scenario Creation]()
+- [Scenario Creation](https://github.com/trevorlawrence/threat-hunt-tor-browser/blob/main/Scenario%20Creation.md)
 
 ## Platforms and Languages Leveraged
 - Windows 11 Virtual Machines (Microsoft Azure)
